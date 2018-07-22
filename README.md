@@ -2,10 +2,11 @@
 
 Partially completed repository for understanding:- 
 * Effects on output in Convolutional Neural Nets because of:-
-  - Addition of different types of layers
+  - Addition of different types of layers and exploring the uses of different parameters in them.
   - Initializers
-  - Optimizers and Losses and in which case they are useful
-  - And New Neural Nets like DENSER where the primary purpose is to better model Neural Networks and not just a task of Computer Vision.
+  - Optimizers and Losses and in which case they are useful.
+  - Regularisation techniques
+  - Exploring Activations
 * Understanding and exploring different types of tasks in CV. They include:-
   - Basic Classification
   - Object Recognition and Detection
