@@ -6,5 +6,10 @@ Partially completed repository for understanding:-
   - Initializers
   - Optimizers and Losses and in which case they are useful
   - And New Neural Nets like DENSER where the primary purpose is to better model Neural Networks and not just a task of Computer Vision.
+* Understanding and exploring different types of tasks in CV. They include:-
+  - Basic Classification
+  - Object Recognition and Detection
+  - Semantic Segmentation
+  - Video Analysis
 * Exploring Geometric CV
 
