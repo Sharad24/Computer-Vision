@@ -1,7 +1,7 @@
 # Computer Vision
 
 Partially completed repository for understanding:- 
-* Effects on output in Convolutional Neural Nets because of:-
+* Convolutional Neural Nets:-
   - Addition of different types of layers and exploring the uses of different parameters in them.
   - Initializers
   - Optimizers and Losses and in which case they are useful.
